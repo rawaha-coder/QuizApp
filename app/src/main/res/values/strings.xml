@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="morocco_card">Morocco card</string>
+    <string name="rabat">Rabat</string>
+    <string name="casablanca">Casablanca</string>
+    <string name="marrakech">Marrakech</string>
+    <string name="moroccan_dollar">Moroccan Dollar</string>
+    <string name="moroccan_dirham">Moroccan Dirham</string>
+    <string name="moroccan_riyal">Moroccan Riyal</string>
+    <string name="fast">Fast</string>
+    <string name="pray">Pray</string>
+    <string name="read_quran">Read Quran</string>
+    <string name="eat_a_lot">Eat a lot</string>
+    <string name="question_1_capital_of_morocco">1 - What is the capital of Morocco?</string>
+    <string name="question_2_currency_of_morocco">2 - What is the currency of Morocco?</string>
+    <string name="question_3_Ramadan_of_morocco">3 - Muslims do what during Ramadan?</string>
+    <string name="question_4_british_colony">4 - Is Morocco a British colony?</string>
+    <string name="question_5_morocco_colonized">5 - How long was Morocco colonized?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="check_answers">Check Answers</string>
+    <string name="type_number_of_years">Type number of years</string>
+</resources>
